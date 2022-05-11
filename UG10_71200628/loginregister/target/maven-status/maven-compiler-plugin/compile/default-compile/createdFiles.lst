@@ -1,0 +1,6 @@
+com\ug10\soal1\App.class
+com\ug10\soal1\LoginException.class
+com\ug10\soal1\User.class
+com\ug10\soal1\UsernameException.class
+com\ug10\soal1\EmailException.class
+com\ug10\soal1\PasswordException.class
